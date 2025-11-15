@@ -414,7 +414,7 @@ def show_footer():
             Built with ❤️ using <b>Streamlit</b> & <b>Random Forest ML</b>
         </p>
         <div style="background: rgba(255,255,255,0.15); padding: 0.8rem; border-radius: 8px; display: inline-block; margin-bottom: 1rem;">
-            <a href="https://github.com/yourusername" target="_blank" style="color: white; text-decoration: none; margin: 0 1rem; font-weight: 500;">
+            <a href="https://github.com/Shubham06032003/India-AirQ-Predictor" target="_blank" style="color: white; text-decoration: none; margin: 0 1rem; font-weight: 500;">
                 🔗 GitHub
             </a>
             <span style="color: rgba(255,255,255,0.5);">|</span>
@@ -466,4 +466,5 @@ Your personal air quality companion powered by AI''')
 
 
 if __name__ == '__main__':
+
     main()
